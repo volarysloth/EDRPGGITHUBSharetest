@@ -308,4 +308,14 @@ Dogfight = random.randrange(10)
 
 ## teST CHANGE
 
+def DogfightCycle():
 
+    print ("Call from the Dogfight Cycle  function")
+
+    dogfight()
+
+    destructioncheck()
+
+    shieldrecharge()
+
+DogfightCycle()
