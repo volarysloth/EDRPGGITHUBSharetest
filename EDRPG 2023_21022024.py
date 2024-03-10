@@ -319,8 +319,3 @@ def DogfightCycle():
     shieldrecharge()
 
 DogfightCycle()
-
-### this is first branchout version to test on Github
-
-ActionChoice = input("What will be your action Choice \n")
-print ("Your decided to: " + ActionChoice)
