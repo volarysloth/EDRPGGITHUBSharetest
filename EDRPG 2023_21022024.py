@@ -310,7 +310,7 @@ Dogfight = random.randrange(10)
 
 def DogfightCycle():
 
-    print ("Call from the Dogfight Cycle  function")
+    print ("Call from the Dogfight Cycle function")
 
     dogfight()
 
