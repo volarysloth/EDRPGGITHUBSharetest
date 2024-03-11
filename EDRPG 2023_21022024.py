@@ -319,3 +319,8 @@ def DogfightCycle():
     shieldrecharge()
 
 DogfightCycle()
+
+ActionChoice = input("What will be your action Choice /n")
+print ("Your decided to: " + ActionChoice)
+
+exit()
